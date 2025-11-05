@@ -10,4 +10,5 @@ export default function Body() {
 export const Section = styled.section`
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
 `;

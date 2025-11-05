@@ -43,6 +43,8 @@ export const H2 = styled.h2`
   font-weight: 700;
   font-size: 40px;
   color: #f2f2f2;
+  font-family: "Big Shoulders Display", sans-serif;
+  text-transform: uppercase;
 `;
 
 export const P = styled.p`
